@@ -1,0 +1,6 @@
+{
+  "name": "Forex Bank Pro - Quantum AI-Driven Wealth Acceleration",
+  "description": "High-performance institutional fintech trading platform featuring quantum AI agents, raw spread execution, real-time algorithmic terminal, and interactive yield calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
